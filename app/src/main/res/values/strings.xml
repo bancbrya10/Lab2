@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Lab2</string>
+    <string name="MapButtonTitle">Map</string>
+    <string name="ListButtonTitle">List</string>
+    <string name="google_maps_key">AIzaSyB7Yg71IoXadbM7stdN45hA8cuX8z78w-U</string>
+    <string name="username_input_label">Enter username</string>
+    <string name="username_textbox_hint">Alphanumeric characters only</string>
+</resources>
